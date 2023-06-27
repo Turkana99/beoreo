@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    width: 100%;
+    float: left;
+}
+
+.nav {
+    float: left;
+    width: 30%;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+
+.menu {
+    float: left;
+    width: 70%;
+    display: inline-block;
+    padding-left: 800px;
+    padding-top: 45px;
+}
+
+.menu i {
+    text-align: right;
+    padding: 0px 25px;
+}
+
+.nav h1 {
+    font-size: 60px;
+}
+
+.nav h1 span {
+    color: red;
+}
+
+.nav p {
+    color: red;
+    font-size: 14px;
+}
+
+.aside {
+    float: left;
+    width: 100%;
+}
+
+.my_img1 {
+    float: left;
+    width: 59.8%;
+}
+
+.my_img2 {
+    float: left;
+    width: 40.2%;
+}
+
+.my_img1 img {
+    width: 100%;
+    height: 500px;
+}
+
+.my_img2 {
+    padding-left: 5px;
+}
+
+.my_img2 img {
+    display: inline-block;
+    width: 298px;
+    height: 248px;
+}
+
+.my_img3 {
+    width: 100%;
+    height: 248px;
+}
+
+.my_img3 img {
+    width: 300px;
+    height: 100%;
+}
